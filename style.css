@@ -1,0 +1,35 @@
+#heading {
+    font-family: courier;
+    font-size: 50px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.mainbody {
+    background-color: rgba(255, 156, 75, 0.363);
+    font-family: times new roman;
+}
+
+.project-info {
+    font-size: 20px;
+    background-color: lightgray;
+
+}
+
+.project-name {
+    font-size: 30px;
+    background-color: pink;
+}
+
+footer {
+    background-color: gray;
+    text-align: center;
+    font-family: courier;
+    font-size: 20px;
+}
+
+.hr {
+    background-color: red;
+}
+
+.project-image
